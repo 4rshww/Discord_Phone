@@ -16,21 +16,3 @@
   </p>
 </div>
 
----------------------------------------
-
-```
-pip install -U git+https://github.com/dropout1337/Discord-iOS/
-```
-
-```py
-import discord_ios
-
-import discord
-from discord.ext import commands
-
-client = commands.Bot(...)
-```
-- All you need todo is import `discord_ios` before any discord.py related librarys.
-
-### Contact
-View my contact information on my [telegram](https://t.me/dropoutuwu/)
