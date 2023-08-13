@@ -13,9 +13,6 @@
     Make your bot appear on mobile.
     <br />
     <br />
-    <a href="https://github.com/dropout1337/Discord-iOS/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/dropout1337/Discord-iOS/issues">Request Feature</a>
   </p>
 </div>
 
