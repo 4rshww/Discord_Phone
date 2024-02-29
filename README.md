@@ -13,6 +13,9 @@
     Make your bot appear on mobile.
     <br />
     <br />
+    <h2 align="center">Installation</h3>
+    <p>1 - pip install discord-ios</p>
+    <p>2 - import discord_ios at ther first line of your code</p>
   </p>
 </div>
 
